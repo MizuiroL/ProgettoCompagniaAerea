@@ -1,4 +1,4 @@
-package com.mizuiro.rest;
+package com.mizuiro.air.rest;
 
 import com.mizuiro.air.exception.BookingFailedException;
 import com.mizuiro.air.exception.TicketNotValidException;

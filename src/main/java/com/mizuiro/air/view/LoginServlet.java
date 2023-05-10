@@ -1,4 +1,4 @@
-package com.mizuiro.view;
+package com.mizuiro.air.view;
 
 import jakarta.ejb.EJB;
 import jakarta.servlet.ServletException;
