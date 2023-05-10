@@ -13,7 +13,7 @@
 	rel="stylesheet">
 </head>
 <body>
-	<h1>Flight successfully</h1>
+	<h1>Flight booked successfully</h1>
 	<a href="/ProgettoCompagniaAerea/customer_home.jsp">Go back</a>
 </body>
 </html>
